@@ -1,0 +1,5 @@
+Firstclass
+Secret
+badclass
+Gamer
+Customer
